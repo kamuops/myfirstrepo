@@ -1,0 +1,45 @@
+[33mcommit 221f9423a961d409e4703736dee1ed17dca7dbb9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:45:48 2019 +0530
+
+    commit before hard reset
+
+[33mcommit 56d38625e5cdb7ea4a62af345aafe9234d8e3afe[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:40:04 2019 +0530
+
+     changes after soft reset
+
+[33mcommit 0867a0be5297d2134a57f2d33dd39d5ce990039e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5486c87 7181910
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:21:23 2019 +0530
+
+    Merge branch 'master' of https://github.com/kamuops/myfirstrepo
+    i this is very important
+
+[33mcommit 718191065dac1ddef79844a4dde00a3b6d5a474b[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:20:05 2019 +0530
+
+    Update kamu1.txt
+    
+    dfdf
+
+[33mcommit 5486c8733a45bddc8b8580af245f1795ca79c366[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:19:54 2019 +0530
+
+     second commit
+
+[33mcommit bf8bacd3f1014030bb620f0db1d0d5ca02444f45[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:14:59 2019 +0530
+
+     hi
+
+[33mcommit 4e8e0ea92e452d70106b5c4680998749a966b1ff[m
+Author: kamuops <kamu.raju@gmail.com>
+Date:   Mon May 27 22:03:12 2019 +0530
+
+    Initial commit
